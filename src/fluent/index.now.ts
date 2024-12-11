@@ -26,7 +26,7 @@ BusinessRule({
     action: ['update'],
     table: 'incident',
     script: showStateUpdate,
-    name: 'LogStateChange',
+    name: 'LogStateChange2',
     order: 100,
     when: 'after',
     active: true,
